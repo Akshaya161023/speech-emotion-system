@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Models (large binary files — use git-lfs or exclude)
+# models/*.pkl
+# models/*.h5
+# Uncomment above if you want to exclude model files from git
+
+# Datasets (large — never commit to git)
+data/RAVDESS/
+data/TESS/
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temp files
+tmp/
+temp/
+*.tmp
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Whisper cache (downloaded models)
+# ~/.cache/whisper/    ← stored outside project by default
