@@ -7,9 +7,9 @@
 ![Whisper](https://img.shields.io/badge/Whisper-OpenAI-green?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange?style=flat-square&logo=tensorflow)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
-![Free](https://img.shields.io/badge/Cost-100%25%20FREE-brightgreen?style=flat-square)
 
-**Real-time Speech Transcription + Emotion Recognition — Fully Offline & Free**
+
+**Real-time Speech Transcription + Emotion Recognition 
 
 </div>
 
@@ -38,7 +38,7 @@ Audio File (WAV/MP3/FLAC)
 
 ---
 
-## 🆓 Tech Stack (100% Free)
+## 🆓 Tech Stack 
 
 | Component | Library | Why |
 |-----------|---------|-----|
@@ -213,12 +213,6 @@ Recommended: **`base`** for most use cases.
 | `Model not found` | Run `python training/train_demo_model.py` |
 | Slow transcription | Use `tiny` Whisper model in sidebar |
 | `librosa` errors | Install ffmpeg or use WAV files |
-
----
-
-## 📄 License
-
-MIT License — Free for personal and commercial use.
 
 ---
 
