@@ -12,7 +12,7 @@ scipy==1.11.1
 audioread==3.0.1
 
 # Speech-to-Text
-openai-whisper==20231117
+openai-whisper==20240930
 ffmpeg-python==0.2.0
 
 # Visualization
