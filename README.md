@@ -201,7 +201,13 @@ Recommended: **`base`** for most use cases.
 5. Click **Deploy** — it's FREE!
 
 > Note: Add `packages.txt` with `ffmpeg` for audio processing support.
+## 🚀 Live Demo
 
+👉 **[Click here to try the app](https://speech-emotion-system-w67c.onrender.com/)**
+
+> ⚠️ Note: First load may take 30–60 seconds (free tier wakes up from sleep)
+
+---
 ---
 
 ## 🔧 Troubleshooting
@@ -215,7 +221,9 @@ Recommended: **`base`** for most use cases.
 | `librosa` errors | Install ffmpeg or use WAV files |
 
 ---
+## 👩‍💻 Developer
 
+Made by **Akshaya** | [GitHub](https://github.com/Akshaya161023)
 <div align="center">
 Built with ❤️ using Python · Whisper · Librosa · Scikit-learn · TensorFlow · Streamlit
 </div>
